@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FCE77D&height=200&section=header&text=_Carpediem_&fontSize=70&fontColor=F96167)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FCE77D&height=200&section=header&text=Carpediem&fontSize=70&fontColor=F96167)
 
 <div align="center">
   
