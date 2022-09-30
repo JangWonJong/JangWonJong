@@ -5,10 +5,7 @@
   ### ⭐ INTRO ⭐
   
   ☀️안녕하세요 신입개발자 장원종입니다☀️
-  #
-  
-  
-  ![JangWonJong's GitHub stats](https://github-readme-stats.vercel.app/api?username=JangWonJong&theme=midnight-purple&show_icons=true)
+
 #
   ### 📚 STACKS 📚 
   <img src="https://img.shields.io/badge/JAVA-blue?style=for-the-badge"/>  <img src="https://img.shields.io/badge/Spring Boot-green?style=for-the-badge&logo=Spring Boot&logoColor=6DB33F"/>  <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=React&logoColor=61DAFB"/>  <img src="https://img.shields.io/badge/MariaDB-blue?style=for-the-badge&logo=MariaDB&logoColor=003545"/>  
@@ -21,6 +18,10 @@
  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
   
   #
+  
+  ![JangWonJong's GitHub stats](https://github-readme-stats.vercel.app/api?username=JangWonJong&theme=midnight-purple&show_icons=true)
+   #
+  
   
 </div>
 
