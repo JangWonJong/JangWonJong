@@ -30,7 +30,7 @@
 
 ## 📌 PROJECTS
 
-### 🔹 인증 기반 키 관리 시스템 (Basestone)
+### 🔹 인증 기반 키 관리 시스템
 - **Role**: Backend / Frontend
 - **Stack**: Spring Boot, React, JWT
 - **Achievement**: 신속확인제도 통과 · 조달청 심사 통과
