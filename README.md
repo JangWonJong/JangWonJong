@@ -33,7 +33,7 @@
 ### 🔹 인증 기반 키 관리 시스템
 - **Role**: Backend / Frontend
 - **Stack**: Spring Boot, React, JWT
-- **Achievement**: 신속확인제도 통과 · 조달청 심사 통과
+- **Achievement**: 신속확인제도 통과
 
 > JWT 기반 인증 구조 설계 및  
 > 키 생성·관리 API 구현  
